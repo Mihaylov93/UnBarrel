@@ -38,7 +38,7 @@ Photo taken with the SJ4000 Camera
 
 ![alt text](https://cloud.githubusercontent.com/assets/8819640/12583355/9ae331b2-c442-11e5-8c9a-d38329e87922.JPG "OriginalImg")
 
-Parameters a = 0 ; b 0.1; c = 0.00001; s = 0.799
+Parameters **a = 0** **b = 0.1** **c = 0.00001** **s = 0.799**
 
 
 
