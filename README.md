@@ -33,6 +33,18 @@ where rDest and rSrc refer to the normalized radius of an image pixel. The cente
 
 Usual values for **a**, **b** and **c** are below 1.0, in most cases below 0.01. Too high values suggest that you chose a wrong lens type, f.e. fisheye instead of rectilinear or vice versa. This refers to the absolute values of course since a, b and c can be positive or negative (f.e. both 4.5 and -4.5 are considered too high values).
 
+##### Example:
+Photo taken with the SJ4000 Camera
+
+![alt text](https://cloud.githubusercontent.com/assets/8819640/12583355/9ae331b2-c442-11e5-8c9a-d38329e87922.JPG "OriginalImg")
+
+Parameters a = 0 ; b 0.1; c = 0.00001; s = 0.799
+
+
+
+
+![alt text](https://cloud.githubusercontent.com/assets/8819640/12583366/b41bf790-c442-11e5-804d-7a802b0d32ad.jpg "OutputImg")
+
 
 
 ### Useful links:
