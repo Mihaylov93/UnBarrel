@@ -45,7 +45,14 @@ Parameters **a = 0** **b = 0.1** **c = 0.00001** **s = 0.799**
 
 ![alt text](https://cloud.githubusercontent.com/assets/8819640/12583366/b41bf790-c442-11e5-804d-7a802b0d32ad.jpg "OutputImg")
 
+**As this is a subproject for a bigger project, here is A preview example with a test image from the same camera with modified lenses**
 
+Normalized difference vegetation index (NDVI) photo of Student Dormitories, AGH University of Science and Technology.
+![alt text](https://cloud.githubusercontent.com/assets/8819640/12675044/e3257312-c687-11e5-9c16-fe44a6080670.jpg "NDVI")
+
+Same parameters as above: **a = 0** **b = 0.1** **c = 0.00001** **s = 0.799**
+
+![alt text](https://cloud.githubusercontent.com/assets/8819640/12675090/22e35802-c688-11e5-80d3-0305097b294e.jpg "NDVI fixed")
 
 ### Useful links:
 
